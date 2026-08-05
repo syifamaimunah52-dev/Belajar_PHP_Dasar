@@ -3,7 +3,6 @@
 $a = 15;
 $b = 10;
 
-// Operator Perbandingan dengan angka baru ($a = 15, $b = 10)
 echo var_export($a == $b, true) . "<br>"; // Sama dengan (==) -> false
 echo var_export($a === $b, true) . "<br>"; // Identik (===) -> false
 echo var_export($a != $b, true) . "<br>"; // Tidak sama dengan (!=) -> true
