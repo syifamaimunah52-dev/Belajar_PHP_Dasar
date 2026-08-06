@@ -3,10 +3,10 @@ $warna = "biru";
 
 switch ($warna) {
     case "merah":
-        echo "Stop!";
+        echo "Berhentih!";
         break;
     case "pink":
-        echo "Hati-hati!";
+        echo "Awass!";
         break;
     case "hitam":
         echo "Jalan!";
